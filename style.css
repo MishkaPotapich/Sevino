@@ -1,0 +1,33 @@
+
+/* .btn{ 
+    color: blueviolet;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    background-color: blanchedalmond;
+    transition: 10ms;
+}*/
+.hed1{
+    text-align: center;
+    color: white;
+}
+.mks{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+html {
+    background-image: url(https://images.wallpaperscraft.ru/image/single/planety_luchi_svet_65147_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .prg1{
+      color: white;
+  }
